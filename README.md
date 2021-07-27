@@ -1,19 +1,5 @@
-## References This project includes the source code accompanying the following paper:
 
-@article{ghodratnama2020extractive,
-  title={Extractive document summarization based on dynamic feature space mapping},
-  author={Ghodratnama, Samira and Beheshti, Amin and Zakershahrak, Mehrdad and Sobhanmanesh, Fariborz},
-  journal={IEEE Access},
-  volume={8},
-  pages={139084--139095},
-  year={2020},
-  publisher={IEEE}
-}
-
-Abstract:
-
-
-# APRIL: Extractive document summarization based on dynamic feature space mapping.
+# Extractive document summarization based on dynamic feature space mapping.
 
 This project includes the source code accompanying the following paper:
 
