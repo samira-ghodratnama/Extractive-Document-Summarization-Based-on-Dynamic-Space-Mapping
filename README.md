@@ -1,4 +1,4 @@
-# This project includes the source code accompanying the following paper:
+## References This project includes the source code accompanying the following paper:
 
 @article{ghodratnama2020extractive,
   title={Extractive document summarization based on dynamic feature space mapping},
